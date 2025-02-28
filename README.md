@@ -1,6 +1,7 @@
 # Linktree/Bento.me-like Platform Backend
 
 ## Overview
+
 This project is a backend implementation for a platform similar to Linktree or Bento.me, allowing users to create and manage their personalized link pages. The backend is built using **Node.js**, **Express.js**, and **MongoDB**, with authentication handled via **JWT**.
 
 ## Features
